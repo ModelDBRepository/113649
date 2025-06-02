@@ -18,6 +18,4 @@ Mattias Hennig
 
 Last modified: Sat May 3 22:01:48 BST 2008
 
----
-
-2025-06-02: Standardized to Markdown.
+Converted README to Markdown: Mon June 2 2025
